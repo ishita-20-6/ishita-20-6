@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Software Engineering Student • Backend Engineering • Distributed Systems • Cybersecurity
+### Software Engineering Student • Backend Engineering • MERN Developer • Cybersecurity
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=950&lines=Backend+Engineering+⚙️;Distributed+Systems+🌐;Data+Structures+%26+Algorithms+🔥;Cloud+Native+Development+☁️;Building+Scalable+Systems+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=950&lines=Backend+Engineering+⚙️;Distributed+Systems+🌐;Data+Structures+%26+Algorithms+Enthusiast+🔥;Cloud+Native+Development+☁️;Building+Scalable+Systems+🚀" />
 
 </div>
 
