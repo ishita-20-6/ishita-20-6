@@ -78,61 +78,93 @@ Security & AI:
   - Vector Database Concepts
 ```
 
- 💻 Technical Skills
+# 💻 Technical Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ## Languages
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+
 </div>
 
----
+</td>
 
-## Backend Technologies
+<td valign="top" width="50%">
+
+## Frontend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
 </div>
 
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
+
+## Backend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,redis" />
+
+</div>
+
+### Additional Technologies
 - Apache Kafka
 
----
+</td>
 
-## Frontend Technologies
+<td valign="top" width="50%">
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</div>
-
----
-
-## Cloud • Infrastructure • DevOps
+## Cloud • DevOps
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana" />
+
 </div>
 
+### Observability
 - Jaeger
 
----
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="50%">
 
 ## Tools & Platforms
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql" />
-</div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ishita-20-6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-20-6&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql" />
 
 </div>
+
+</td>
+
+<td valign="top" width="50%">
+
+## Engineering Interests
+
+- Distributed Systems
+- Backend Architecture
+- Cloud Native Development
+- System Design
+- High Performance Applications
+
+</td>
+</tr>
+</table>
 
 ---
 
