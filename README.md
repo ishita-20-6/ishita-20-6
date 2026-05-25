@@ -1,4 +1,4 @@
-# <div align="center">Ishita Chaturvedi</div>
+# <div align="center">👋 Hi, I am Ishita Chaturvedi</div>
 
 <div align="center">
 
