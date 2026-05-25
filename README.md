@@ -22,23 +22,11 @@
 
 # 🧠 About
 
-I am a pre-final-year Computer Science student specializing in **Cybersecurity**, with a strong focus on architecting scalable backend systems and solving computationally intensive problems through efficient algorithmic design.
+I am a Pre-final-year student pursuing a B.Tech in Computer Science and Engineering, specializing in Cybersecurity.
 
-My engineering interests revolve around:
-- distributed systems
-- backend architecture
-- cloud-native development
-- scalable application design
-- high-performance computing
+My core focus is architecting high-performance distributed systems, rooted in the belief that great engineering starts with robust problem-solving. With a strong foundation in Data Structures and Algorithms (200+ LeetCode problems solved), I approach every architectural challenge with a focus on computational efficiency and optimal complexity.
 
-I approach software engineering with an optimization-first mindset, emphasizing:
-- computational efficiency
-- modular architecture
-- maintainable codebases
-- system reliability
-- clean abstractions
-
-With a strong foundation in **Data Structures & Algorithms** and competitive programming, I continuously work on improving algorithmic thinking, problem decomposition, and implementation efficiency.
+While I thrive in the backend—managing data orchestration and system resilience—I am equally comfortable building seamless user experiences. I specialize in bridging the gap between complex server-side logic and aesthetic, high-performance frontends.
 
 Beyond problem solving, I actively explore:
 - event-driven architectures
